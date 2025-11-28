@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: [Muhammet Sefa KOZAN]
+ * Numara: [250541057]
+ * Tarih: [28.11.2025]
+ */
+
 public class Exercise4_3 {
 
     /** Cikti

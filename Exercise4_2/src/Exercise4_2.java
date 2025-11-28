@@ -1,7 +1,10 @@
+/**
+ * Ad Soyad: [Muhammet Sefa KOZAN]
+ * Numara: [250541057]
+ * Tarih: [28.11.2025]
+ */
+
 public class Exercise4_2 {
-
-    // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
-
     /** Cikti
      * ik
      * rattle
@@ -13,7 +16,7 @@ public class Exercise4_2 {
         zippo("rattle", 13); // 1
     }
 
-    public static void baffle(String blimp) { // ilk gonderilen parametre "rattle" dir
+    public static void baffle(String blimp) { // ilk gonderilen parametre quince argumaninin "rattle" degeridir
         System.out.println(blimp); // 6
         zippo("ping", -5); // 7
     }
