@@ -1,5 +1,26 @@
 public class Exercise4_5 {
 
+    /**
+     * main baslar: bizz = 5, buzz = 2 atamalari yapilir
+     * zoop("just for", 5) cagrilir
+     * "just for" yazdirilir
+     * bob == 5 true oldugu icin ping("not ") çagrilir
+     * ping metodu "any not more " yazdirir
+     * clink(4) cagrilir
+     * "It's " yazdirilir (print)
+     * zoop("breakfast ", 4) cagrilir
+     * "breakfast " yazdirilir
+     * bob == 5 false oldugu icin else blogu calisir
+     * "!" yazdirilir
+     */
+
+    /** Cikti
+     * just for
+     * any not more
+     * It's breakfast
+     * !
+     */
+
     public static void zoop(String fred, int bob) {
         System.out.println(fred);
         if (bob == 5) {
